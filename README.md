@@ -6,14 +6,15 @@
 
 
 0. Clone the project.
-0. Run npm i
-0. npm link  -  ( makes the program global command )
-0. npm unlink - ( remove the program )
+0. Run `npm i`
+0. `npm link`  -  ( makes the program global command )
+0. `npm unlink`  - (it remove the program )
 
 ##### options
 
-Usage: passgen [options]
+Usage: `passgen [options] `
 
+type `passgen` to generate random password.
 
 ```
 Simple Password Generator
