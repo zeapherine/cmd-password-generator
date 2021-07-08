@@ -1,5 +1,5 @@
 # cmd-password-generator
-## Command line Program too create random passwords and store it in a protected .txt file.
+## Command line Program to create random passwords and store it in a protected .txt file.
 
 
 ### Installation
