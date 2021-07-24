@@ -1,6 +1,8 @@
 # cmd-password-generator
 ## Command line Program to create random passwords and store it in a protected .txt file.
 
+##### Video demo
+[Link to video](https://www.linkedin.com/posts/zeapherine-islary-a8055a174_developers-javascriptdevelopers-javascript-activity-6818977306950856704-rYsT)
 
 ### Installation
 
@@ -31,5 +33,4 @@ Options:
 
 ```
 
-##### Video demo
-[Link to video](https://www.linkedin.com/posts/zeapherine-islary-a8055a174_developers-javascriptdevelopers-javascript-activity-6818977306950856704-rYsT)
+
